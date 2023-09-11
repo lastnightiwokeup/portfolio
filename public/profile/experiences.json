@@ -1,0 +1,26 @@
+{
+    "experiences": [
+        {
+            "title": "Frontend Developer",
+            "subtitle": "People Technology (International) Limited",
+            "workDescription": [
+                "Develop an NFC related Android app using React Native.",
+                "Build responsive user interface for a CRM platform using Vue.js and the Metronic Bootstrap template",
+                "Collaborate with a backend developer for the development of a mobile application and a website"
+            ],
+            "dateText": "07/2023 – 08/2023"
+        },
+        {
+            "title": "Web Developer (Intern)",
+            "subtitle": "Tecpal",
+            "workDescription": [
+                "Build a web page using Vue.js, responsive web design implementation",
+                "Collaborate closely with the UI/UX designer and Project Manager to meet the client's specific requirements",
+                "Demonstrate proficiency in Agile process management methodologies and utilize tools such as JIRA and Confluence for efficient project coordination",
+                "Employ Postman for making API calls to enhance functionality",
+                "Perform web page updates and creation using WordPress"
+            ],
+            "dateText": "05/2022 – 08/2022"
+        }
+    ]
+}
