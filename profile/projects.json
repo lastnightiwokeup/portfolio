@@ -1,0 +1,38 @@
+{
+    "projects": [
+        {
+            "image": "images/projects/phone-homepage.png",
+            "title": "Smartphone Reservation",
+            "bodyText": "",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/lastnightiwokeup/SmartPhone-Reservation"
+                }
+            ],
+            "tags": [
+                "PHP",
+                "JavaScript",
+                "MySQL",
+                "Bootstrap",
+                "CSS"
+            ]
+        },
+        {
+            "image": "images/projects/blynk-dashboard.png",
+            "title": "Real Time Air Quality Monitoring IoT Device",
+            "bodyText": "",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/lastnightiwokeup/Real-time-indoor-air-quality-monitoring-IoT-device"
+                }
+            ],
+            "tags": [
+                "C++",
+                "Arduino",
+                "Blynk"
+            ]
+        }
+    ]
+}
