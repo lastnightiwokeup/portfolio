@@ -1,16 +1,6 @@
 {
     "experiences": [
         {
-            "title": "Frontend Developer",
-            "subtitle": "People Technology (International) Limited",
-            "workDescription": [
-                "Develop an NFC related Android app using React Native.",
-                "Build responsive user interface for a CRM platform using Vue.js and the Metronic Bootstrap template",
-                "Collaborate with a backend developer for the development of a mobile application and a website"
-            ],
-            "dateText": "07/2023 – 08/2023"
-        },
-        {
             "title": "Web Developer (Intern)",
             "subtitle": "Tecpal",
             "workDescription": [
