@@ -1,0 +1,13 @@
+{
+    "education":[
+        {
+            "title": "July 2021 -  Aug 2023",
+            "cardTitle": "Bachelor of Science (Honours) in Applied Sciences (Information Systems and Web Technologies)",
+            "cardSubtitle":"The Hong Kong Polytechnic University, The School of Professional Education and Executive Development (PolyU SPEED)",
+            "cardDetailedText": "CGPA - 3.43",
+            "icon" : {
+                "src": "images/education/polyu.png"
+            }
+        }
+    ]
+}

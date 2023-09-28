@@ -1,0 +1,111 @@
+{
+    "intro": "I am passionate about learning and enjoy experimenting with new technologies. Throughout my projects, I have gained experience working with various languages, technologies, tools, and platforms.",
+    "skills": [{
+     
+            "title": "Languages & Databases",
+            "items" : [
+
+                {
+                    "icon": "images/skills/html.png",
+                    "title": "HTML"
+                },
+                {
+                    "icon": "images/skills/css.png",
+                    "title": "CSS"
+                },
+                {
+                    "icon": "images/skills/js.png",
+                    "title": "JavaScript"
+                },
+                {
+                    "icon": "images/skills/python.png",
+                    "title": "Python"
+                },
+                {
+                    "icon": "images/skills/java.png",
+                    "title": "Java"
+                },
+                {
+                    "icon": "images/skills/php.png",
+                    "title": "PHP"
+                },
+                {
+                    "icon": "images/skills/cplusplus.svg",
+                    "title": "C++"
+                },
+                {
+                    "icon": "images/skills/sql.svg",
+                    "title": "SQL"
+                }
+        ]},
+        {
+            "title": "Frameworks & Technologies",
+            "items" : [            
+                {
+                    "icon": "images/skills/vuejs.png",
+                    "title": "Vuejs"
+                },
+                {
+                    "icon": "images/skills/react.png",
+                    "title": "React"
+                },    
+                {
+                    "icon": "images/skills/wordpress.png",
+                    "title": "WordPress"
+                },
+                {
+                    "icon": "images/skills/bootstrap.png",
+                    "title": "BootStrap"
+                },
+                {
+                    "icon": "images/skills/nodejs.png",
+                    "title": "Nodejs"
+                },
+                {
+                    "icon": "images/skills/material-ui.png",
+                    "title": "Material UI"
+                },
+                {
+                    "icon": "images/skills/rest-api.png",
+                    "title": "REST API"
+                }
+            ]
+        },
+        {
+            "title" : "Tools & Platforms",
+            "items": [
+                {
+                    "icon": "images/skills/git.png",
+                    "title": "Git"
+                },
+                {
+                    "icon": "images/skills/jira.png",
+                    "title": "Jira"
+                },
+                {
+                    "icon": "images/skills/postman.png",
+                    "title": "Postman"
+                },
+                {
+                    "icon": "images/skills/android-studio.png",
+                    "title": "Android Studio"
+                },
+                {
+                    "icon": "images/skills/vscode.png",
+                    "title": "VSCode"
+                },
+                {
+                    "icon": "images/skills/visual-studio.png",
+                    "title": "Visual Studio"
+                },
+                {
+                    "icon": "images/skills/windows.png",
+                    "title": "Windows"
+                },
+                {
+                    "icon": "images/skills/mac-os.png",
+                    "title": "Mac"
+                }
+            ]
+    }
+]}
